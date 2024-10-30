@@ -1,0 +1,7 @@
+{
+    "Id": "a_car_battery",
+    "PackPath": "a_car_battery.pck",
+    "Dependencies": [
+        "Sulayre.Lure"
+    ]
+}
